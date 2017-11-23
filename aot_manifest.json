@@ -3,5 +3,5 @@
   "description": "Always on Top",
   "path": "AOT.exe",
   "type": "stdio",
-  "allowed_extensions": [ "{79CF4E4E-C0D1-481D-A813-64393799206A}" ]
+  "allowed_extensions": [ "{E6C93316-271E-4b3d-8D7E-FE11B4350AEB}" ]
 }
