@@ -1,0 +1,7 @@
+{
+  "name": "always_on_top",
+  "description": "Always on Top",
+  "path": "AOT.exe",
+  "type": "stdio",
+  "allowed_extensions": [ "{79CF4E4E-C0D1-481D-A813-64393799206A}" ]
+}
